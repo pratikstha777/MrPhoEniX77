@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Machine learning and A.I
+I'm currently learning Data Analytics, Python Dajngo framework.
 
 
 
